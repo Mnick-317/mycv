@@ -43,6 +43,10 @@
 .navbar a:hover::before {
   width: 100%;
 }
+.background{
+  max-width: 100%;
+  height: auto;
+}
 .about{
   margin-top: 100px;
   font-family: Calibri;
